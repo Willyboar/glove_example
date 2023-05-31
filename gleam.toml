@@ -11,7 +11,7 @@ description = "Example of Using Glove - QBE IR for gleam"
 
 [dependencies]
 gleam_stdlib = "~> 0.29"
-glove = "~> 0.1"
+glove = "~> 0.2"
 
 [dev-dependencies]
 gleeunit = "~> 0.10"

@@ -1,0 +1,4 @@
+[packages]
+glove = "0.2.0"
+gleeunit = "0.10.1"
+gleam_stdlib = "0.29.0"
